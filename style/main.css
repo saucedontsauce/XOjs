@@ -11,11 +11,6 @@ html{
     background-image: url('./css-pattern-by-magicpattern.png');
     background-size: cover ;
 }
-body {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
 .screenWrap {
     background: #F8F8F8;
     max-width: 960px;
