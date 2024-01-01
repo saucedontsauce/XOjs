@@ -12,6 +12,12 @@ html{
     background-size: cover ;
 }
 body {
-    background: #F8F8F8;
     display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.screenWrap {
+    background: #F8F8F8;
+    max-width: 960px;
+    max-height: 680px;
 }
