@@ -7,7 +7,7 @@ html, body {
     height: 100%;
     width: 100%;
 }
-html{
+body{
     background-image: url('./css-pattern-by-magicpattern.png');
     background-size: cover ;
 }
